@@ -11,8 +11,7 @@ This script utilizes the OpenAI GPT-3 model to generate trading recommendations 
  
 ### Setup
 Install the required libraries using pip:
-`bash
-pip install openai yfinance pandas`
+`pip install openai yfinance pandas`
 Obtain an API key for OpenAI GPT-3 and assign it to the api_key variable in the script.
 
 ### Usage
@@ -21,8 +20,7 @@ The get_trading_recommendation() function utilizes the GPT-3 model to generate t
 Run the script by executing python script_name.py in the terminal.
 
 ### Example
-`python
-python main.py`
+`python main.py`
 
 ### Important Notes
 Ensure the api_key variable is properly configured with a valid API key for OpenAI GPT-3.
