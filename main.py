@@ -2,7 +2,7 @@ import openai
 import yfinance as yf
 import pandas as pd
 
-api_key = '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'
+api_key = ''
 openai.api_key = api_key
 client = openai.OpenAI()
 
